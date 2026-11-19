@@ -1,5 +1,6 @@
 import speech_recognition
 from api import getApiResponse
+# You have to have a file where you export your unique API, which I haven't included in the repo
 from time import sleep
 import pyttsx3
 from engi1020.arduino.api import *
